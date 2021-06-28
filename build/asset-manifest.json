@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Pizza-React/static/js/main.feb4f15f.chunk.js",
+    "main.js.map": "/Pizza-React/static/js/main.feb4f15f.chunk.js.map",
+    "runtime-main.js": "/Pizza-React/static/js/runtime-main.3298bd59.js",
+    "runtime-main.js.map": "/Pizza-React/static/js/runtime-main.3298bd59.js.map",
+    "static/js/2.382a4190.chunk.js": "/Pizza-React/static/js/2.382a4190.chunk.js",
+    "static/js/2.382a4190.chunk.js.map": "/Pizza-React/static/js/2.382a4190.chunk.js.map",
+    "index.html": "/Pizza-React/index.html",
+    "static/js/2.382a4190.chunk.js.LICENSE.txt": "/Pizza-React/static/js/2.382a4190.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3298bd59.js",
+    "static/js/2.382a4190.chunk.js",
+    "static/js/main.feb4f15f.chunk.js"
+  ]
+}
