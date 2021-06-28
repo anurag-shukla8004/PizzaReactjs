@@ -9,7 +9,7 @@ const Home = () => {
           <div className="w-1/2">
            <h1 className="text-lg"> <em>Are you hungary?</em></h1>
            <h1 className="text-3xl md:text-3xl font-bold"> Don't wait !</h1>
-          <Link to="/product"><button className="btn px-6 py-2 rounded-full text-white font-bold mt-4 bg-yellow-500 hover:bg-yellow-600">Order Now </button></Link>
+          <button className="btn px-6 py-2 rounded-full text-white font-bold mt-4 bg-yellow-500 hover:bg-yellow-600"><Link to="/button">Order Now </Link></button>
             </div>
 
             {/* Image */}

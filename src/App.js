@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Navigation from './component/Navigation'
 import Productpage from './pages/Productpage'
 import Cart from './pages/Cart'
+import Button from './pages/Productpage'
 import SingleProduct from './pages/SingleProduct';
 import { CartContext } from './CartContext'
 import {useEffect , useState} from 'react';
@@ -32,6 +33,7 @@ const App = () => {
           {/* <Route path="/about" component={About} ></Route> */}
           <Route path="/product" exact component={Productpage}></Route>
           <Route path="/product" component={SingleProduct}></Route>
+          <Route path="/button" component={Button}></Route>
           <Route path="/cart" component={Cart}></Route>
        </Switch>
        </CartContext.Provider>
