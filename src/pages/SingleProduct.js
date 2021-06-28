@@ -20,7 +20,7 @@ const SingleProduct = () => {
 
   return (
     <div className="container mx-auto mt-12">
-    <button className="mb-12 font-bold" onClick={()=>{history.goBack()}}> Back</button>
+    <button className="mb-12 font-bold" onClick={()=>{history.goBack()}}>Back</button>
     <div className="flex ">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr5J25hbEsBpd37RRyR2Q1c2yoAO2HzrqQuHvWiT5qAeJHp4FTXwt-Oisjhb2y-92Ec8&usqp=CAU" alt="pizza"></img>
       <div className="ml-16">
